@@ -1,1 +1,1 @@
-#this sis example code python and c and c++
+#this is example code python and c and c++
